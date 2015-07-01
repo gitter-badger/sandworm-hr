@@ -1,6 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/ineffablebutler/sandworm-hr.png?label=ready&title=Ready)](https://waffle.io/ineffablebutler/sandworm-hr)
 # Portfol.io
 
+[![Join the chat at https://gitter.im/ineffablebutler/sandworm-hr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ineffablebutler/sandworm-hr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Portfol.io is a hypothetical stock investor that allows you to plug in historical values and get an idea of how much money you would have made or lost through past investments. It allows you to continue tracking these portfolios over time.
 
 ## Legacy Team
